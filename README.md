@@ -86,3 +86,17 @@ MAP_B is the trap map. BFS and Greedy is taking the shortest way directly on the
 | `warehouse_robot.py` | The source code |
 | `Search_Algorithms_Report.pdf` | The full report (formulation, algorithms, heuristic, results, screenshots and comparison) |
 | `README.md` | This file |
+
+## Screenshots
+
+### Running the code
+![Running the code](screenshots/1_code_and_run.png)
+
+### MAP_A output
+![MAP_A output](screenshots/2_map_a_output.png)
+
+### MAP_B output
+![MAP_B output](screenshots/3_map_b_output.png)
+
+### MAP_C output and results table
+![MAP_C output and results table](screenshots/4_map_c_and_results_table.png)
